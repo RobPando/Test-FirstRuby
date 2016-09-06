@@ -1,1 +1,1 @@
-# Test-FirstRuby
+# Test-FirstRuby by The Odin Project link:http://www.theodinproject.com/web-development-101/ruby?ref=lnav
